@@ -43,4 +43,11 @@ html_theme_options = {
         "color-brand-primary": "#0072B2",
         "color-brand-content": "#333333",
     },
+    "default_color_mode": "dark",
+    "source_repository": None,
+}
+
+html_context = {
+    "display_github": False,
+    "display_source": False,
 }
