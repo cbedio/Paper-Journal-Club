@@ -24,14 +24,22 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-# html_theme = 'sphinx_bootstrap_theme'
-html_theme = 'pydata_sphinx_theme'
 # html_theme = 'sphinx_rtd_theme'
 
-html_static_path = ['_static']
+# html_static_path = ['_static']
+# html_theme_options = {
+#     'navbar_title': "Paper Journal Club",
+#     'globaltoc_depth': 2,
+#     'globaltoc_collapse': True, 
+#     'globaltoc_includehidden': True,
+# }
+
+html_theme = 'sphinx_book_theme'
+
+# Optional: Customize theme options
 html_theme_options = {
-    'navbar_title': "Paper Journal Club",
-    'globaltoc_depth': 2,
-    'globaltoc_collapse': True, 
-    'globaltoc_includehidden': True,
+    "path_to_docs": "docs/",
+    "repository_url": "https://github.com/your_username/your_repository",
+    "use_repository_button": True,
+    "use_edit_page_button": True,
 }
