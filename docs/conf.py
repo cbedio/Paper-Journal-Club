@@ -50,4 +50,6 @@ html_theme_options = {
 html_context = {
     "display_github": False,
     "display_source": False,
+    "display_bitbucket": False,
+    "display_gitlab": False,
 }
