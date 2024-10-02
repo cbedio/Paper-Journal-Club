@@ -47,9 +47,9 @@ html_theme_options = {
 #     "source_repository": None,
 # }
 
-html_context = {
-    "display_github": False,
-    "display_source": False,
-    "display_bitbucket": False,
-    "display_gitlab": False,
-}
+# html_context = {
+#     "display_github": False,
+#     "display_source": False,
+#     "display_bitbucket": False,
+#     "display_gitlab": False,
+# }
