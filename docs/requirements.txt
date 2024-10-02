@@ -2,3 +2,4 @@ sphinx
 myst-parser 
 sphinx-rtd-theme
 sphinx-bootstrap-theme
+pydata-sphinx-theme
