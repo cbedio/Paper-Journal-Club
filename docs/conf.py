@@ -27,7 +27,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'sphinx-bootstrap-theme'
 # html_theme = 'pydata-sphinx-theme'
 # html_theme = 'sphinx-rtd-theme'
-'
+
 html_static_path = ['_static']
 html_theme_options = {
     'navbar_title': "Paper Journal Club",
