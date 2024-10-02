@@ -1,0 +1,10 @@
+version: 2 
+
+conda:
+  file: environment.yml 
+
+sphinx:
+  configuration: docs/source/conf.py 
+
+build:
+  image: latest
