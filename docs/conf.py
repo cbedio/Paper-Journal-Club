@@ -34,12 +34,13 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #     'globaltoc_includehidden': True,
 # }
 
-html_theme = 'sphinx_book_theme'
+html_theme = 'furo'
 
 # Optional: Customize theme options
 html_theme_options = {
-    "path_to_docs": "docs/",
-    "repository_url": "https://github.com/your_username/your_repository",
-    "use_repository_button": True,
-    "use_edit_page_button": True,
+    "sidebar_hide_name": True,
+    "light_css_variables": {
+        "color-brand-primary": "#0072B2",
+        "color-brand-content": "#333333",
+    },
 }

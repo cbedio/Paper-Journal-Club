@@ -4,3 +4,4 @@ sphinx-rtd-theme
 sphinx-bootstrap-theme
 pydata-sphinx-theme
 sphinx-book-theme
+furo
