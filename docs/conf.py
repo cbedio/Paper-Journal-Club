@@ -26,3 +26,16 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'bootstrap'
 html_static_path = ['_static']
+html_theme_options = {
+    'navbar_itle': "Paper Journal Club",
+    'navbar_site_name': "Site",
+    'navbar_links': [
+        ("Home", "index"),
+        ("About", "about"),
+        ("Contact", "contact"),
+
+    ],
+    'globaltoc_depth': 2,
+    'globaltoc_collapse': True, 
+    'globaltoc_includehidden': False,
+}
