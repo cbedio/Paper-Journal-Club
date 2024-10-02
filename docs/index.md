@@ -1,4 +1,4 @@
-# Paper Journal club
+# Paper Journal Club
 
 Welcome to the Paper Journal Club documentation.
 
