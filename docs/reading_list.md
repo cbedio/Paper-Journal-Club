@@ -4,15 +4,18 @@ Below is the list of papers scheduled for discussion in our journal club. Each r
 
 ### October 2024
 
-| Paper Title       | Author(s)           | Meeting Date | Recording Link              | Read   |
-|-------------------|---------------------|--------------|-----------------------------|--------|
-| Paper 1 Title      | Author 1, Author 2  | 01-Oct-2024  | [Watch](https://link.com)    | [ ]    |
-| Paper 2 Title      | Author 3            | 15-Oct-2024  | [Watch](https://link.com)    | [ ]    |
+| Paper Title       | Author(s)           | Presenter | Meeting Date | Recording Link              | paper link | video link | Read   |
+|-------------------|---------------------|-----------|---------------|----------------------------|------------|------------|--------|
+| Spline-based Transformers     | Prashanth Chandran1, Agon Serifi, Markus Gross and Moritz Bächer | Samuel Carter | 08-Oct-2024  | [Recording](https://link.com)| [paper](https://la.disneyresearch.com/publication/spline-based-transformers/)| [video](https://www.youtube.com/watch?v=AzolLlIbKhg) | [ ]    |
+| Paper Title      | Author(s)           | Presenter name | 15-Oct-2024 | [recording](https://link.com) | [paper](https://link.com) | [video](https://youtube.com) | [ ]    |
+| Paper Title      | Author(s)           | Presenter name | 22-Oct-2024 | [recording](https://link.com) | [paper](https://link.com) | [video](https://youtube.com) | [ ]    |
+| Paper Title      | Author(s)           | Presenter name | 29-Oct-2024 | [recording](https://link.com) | [paper](https://link.com) | [video](https://youtube.com) | [ ]    |
 
 ### November 2024
 
-| Paper Title       | Author(s)           | Meeting Date | Recording Link              | Read   |
-|-------------------|---------------------|--------------|-----------------------------|--------|
-| Paper 1 Title      | Author 4, Author 5  | 05-Nov-2024  | [Watch](https://link.com)    | [ ]    |
-| Paper 2 Title      | Author 6            | 20-Nov-2024  | [Watch](https://link.com)    | [ ]    |
+| Paper Title       | Author(s)           | Presenter | Meeting Date | Recording Link              | paper link | video link | Read   |
+|-------------------|---------------------|-----------|---------------|----------------------------|------------|------------|--------|
+| Paper Title      | Author(s)           | Presenter name | 05-Nov-2024 | [recording](https://link.com) | [paper](https://link.com) | [video](https://youtube.com) | [ ]    |
+| Paper Title      | Author(s)           | Presenter name | 12-Nov-2024 | [recording](https://link.com) | [paper](https://link.com) | [video](https://youtube.com) | [ ]    |
+| Paper Title      | Author(s)           | Presenter name | 19-Nov-2024 | [recording](https://link.com) | [paper](https://link.com) | [video](https://youtube.com) | [ ]    |
 
