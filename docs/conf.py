@@ -27,11 +27,30 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'sphinx_rtd_theme'
 
 html_static_path = ['_static']
+
+html_css_files = [
+    'custom.css',
+]
+
 html_theme_options = {
     'navbar_title': "Paper Journal Club",
     'globaltoc_depth': 2,
     'globaltoc_collapse': True, 
     'globaltoc_includehidden': True,
+}
+
+html_theme_options = {
+    'navbar_title': "Paper Journal Club",
+    'globaltoc_depth': 2,
+    'globaltoc_collapse': True, 
+    'globaltoc_includehidden': True,
+    'navbar_links': [
+        ('Home', 'index'),
+        ('List of Papers', 'reading_list', [
+            ('October', 'reading_list#october'),
+            ('November', 'reading_list#november'),
+        ]),
+    ]
 }
 
 # html_theme = 'furo'
