@@ -47,18 +47,9 @@ html_theme_options = {
     ]
 }
 
-# html_theme = 'furo'
-
-# # Optional: Customize theme options
-# html_theme_options = {
-#     "sidebar_hide_name": True,
-#     "light_css_variables": {
-#         "color-brand-primary": "#0072B2",
-#         "color-brand-content": "#333333",
-#     },
-#     "default_color_mode": "dark",
-#     "source_repository": None,
-# }
+html_sidebars = {
+    '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],  # Make sure the TOC is applied globally
+}
 
 html_context = {
     "display_github": False,
