@@ -35,15 +35,15 @@ html_css_files = [
 
 html_theme_options = {
     'navbar_title': "Paper Journal Club",
-    'globaltoc_depth': 2,  # This will show the subheaders of all pages in the sidebar
-    'globaltoc_collapse': False,  # Prevent the TOC from collapsing
-    'globaltoc_includehidden': True,  # Include hidden pages in the TOC
+    'globaltoc_depth': 2,  # Show subheaders in the sidebar across all pages
+    'globaltoc_collapse': False,  # Prevent the table of contents from collapsing
+    'globaltoc_includehidden': True,  # Ensure all pages are included in the TOC
     'navbar_links': [
-        ('Home', 'index'),  # Always show Home
-        ('List of Papers', 'reading_list'),  # Always show the List of Papers
-        # Show specific subheaders for papers
-        ('October 2024', 'reading_list#october'),
-        ('November 2024', 'reading_list#november'),
+        ('Home', 'index'),
+        ('Reading List', 'reading_list', [
+            ('October 2024', 'reading_list#october'),
+            ('November 2024', 'reading_list#november'),
+        ]),
     ]
 }
 
