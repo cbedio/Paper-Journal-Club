@@ -32,12 +32,6 @@ html_css_files = [
     'custom.css',
 ]
 
-html_theme_options = {
-    'navbar_title': "Paper Journal Club",
-    'globaltoc_depth': 2,
-    'globaltoc_collapse': True, 
-    'globaltoc_includehidden': True,
-}
 
 html_theme_options = {
     'navbar_title': "Paper Journal Club",
