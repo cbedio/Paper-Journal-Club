@@ -6,7 +6,7 @@ Below is the list of papers scheduled for discussion in our journal club. Each r
 
 | Paper Title       | Author(s)           | Presenter | Meeting Date | Recording Link              | paper link | video link | Read   |
 |-------------------|---------------------|-----------|---------------|----------------------------|------------|------------|--------|
-| Spline-based Transformers     | Prashanth Chandran1, Agon Serifi, Markus Gross and Moritz Bächer | Samuel Carter | 08-Oct-2024  | [Recording]()| [paper](https://la.disneyresearch.com/publication/spline-based-transformers/)| [video](https://www.youtube.com/watch?v=AzolLlIbKhg) | [ ]    |
+| Spline-based Transformers     | Prashanth Chandran1, Agon Serifi, Markus Gross and Moritz Bächer | Samuel Carter | 08-Oct-2024  | [Recording](https://surreyac-my.sharepoint.com/:f:/g/personal/sc02949_surrey_ac_uk/EpH46BnRPd9MrfLsk627zo4B_8x2lKdnaAO9GXe80l8ryg?e=mJsFDH)| [paper](https://la.disneyresearch.com/publication/spline-based-transformers/)| [video](https://www.youtube.com/watch?v=AzolLlIbKhg) | [ ]    |
 | Paper Title      | Author(s)           | Presenter name | 15-Oct-2024 | [recording]() | [paper]() | [video]() | [ ]    |
 | Paper Title      | Author(s)           | Presenter name | 22-Oct-2024 | [recording]() | [paper]() | [video]() | [ ]    |
 | Paper Title      | Author(s)           | Presenter name | 29-Oct-2024 | [recording]() | [paper]() | [video]() | [ ]    |
