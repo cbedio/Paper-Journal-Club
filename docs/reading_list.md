@@ -15,7 +15,7 @@ Below is the list of papers scheduled for discussion in our journal club. Each r
 
 | Paper Title       | Author(s)           | Presenter | Meeting Date | Recording Link              | paper link | video link | Resources   |
 |-------------------|---------------------|-----------|---------------|----------------------------|------------|------------|--------|
-| Transfomers Recap     | -           | Venkatesh Sripada | 05-Nov-2024 | [recording]() | [paper]() | [video]() |  [Resource 1](https://www.youtube.com/watch?v=1biZfFLPRSY) [Resource 2](https://github.com/sannykim/transformer)  |
-| Paper Title      | Author(s)           | Presenter name | 12-Nov-2024 | [recording]() | [paper]() | [video]() | [ ]    |
-| Paper Title      | Author(s)           | Presenter name | 19-Nov-2024 | [recording]() | [paper]() | [video]() | [ ]    |
+| Transfomers Recap     | -           | Venkatesh Sripada | 05-Nov-2024 | - | - | - |  [Resource 1](https://www.youtube.com/watch?v=1biZfFLPRSY) [Resource 2](https://github.com/sannykim/transformer)  |
+| -    | -          | - | 12-Nov-2024 | - | -| - | [ ]    |
+| -      | -           | - | 19-Nov-2024 | - | - | - | [ ]    |
 
