@@ -16,6 +16,6 @@ Below is the list of papers scheduled for discussion in our journal club. Each r
 | Paper Title       | Author(s)           | Presenter | Meeting Date | Recording Link              | paper link | video link | Resources   |
 |-------------------|---------------------|-----------|---------------|----------------------------|------------|------------|--------|
 | Transfomers Recap     | -           | Venkatesh Sripada | 05-Nov-2024 | - | - | - |  [Resource 1](https://www.youtube.com/watch?v=1biZfFLPRSY) [Resource 2](https://github.com/sannykim/transformer)  |
-| -    | -          | - | 12-Nov-2024 | - | -| - | [ ]    |
+| Spline-based Transformers    |      Prashanth Chandran1, Agon Serifi, Markus Gross and Moritz Bächer     | Group | 12-Nov-2024 | - | -| - | [ ]    |
 | -      | -           | - | 19-Nov-2024 | - | - | - | [ ]    |
 
